@@ -1,4 +1,4 @@
-# wosfile processing
+# Análise pro Cap. de Bioeconomia usando wosfile
 
 Este código é baseado no trabalho feito por @rafguns para processar um arquivo WoS e gerar:
 
