@@ -1,6 +1,9 @@
 # wosfile processing
 
-Este código é baseado no trabalho feito em @TODO: colocar o git do cara.
+Este código é baseado no trabalho feito por @rafguns para processar um arquivo WoS e gerar:
+
+- Plot do mapa mundi por origem dos autores da produções cientificas;
+- Geração de um arquivo de saída no formato scopus que pode ser usado no openRefine e no VOSviewer.
 
 bugs não solucionados:
 
